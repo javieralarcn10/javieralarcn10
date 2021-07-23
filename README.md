@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hey! 👋
+I'm Javier, a 22 years old web developer from Spain.
 
-<!--
-**javieralarcn10/javieralarcn10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- 👨‍💻 JavaScript, PHP, Java, jQuery 
+- ⚙️ NodeJs, Laravel, Shopify liquid
+- 👁️ HTML, SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo
 
-Here are some ideas to get you started:
+## Portfolio
+- Fullsend.com
+- Happydad.com
+- Onne.com
+- Betternakedclub.com
+- Redondobrand.com
+- Mypeeptoeshop.com
+- Project-h.com
+- Comifort.com
+- Reset-this.com
+- nickname-ba46c.web.app
+Some relevant sites from among the more than 50 websites completed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contact
+- [alarconsanchezjavier@gmail.com](mailto:alarconsanchezjavier@gmail.com)
+- [@javieralarcn10](https://twitter.com/javieralarcn10) on Twitter
