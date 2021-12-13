@@ -2,7 +2,7 @@
 I'm Javier, a 22 years old web developer from Spain.
 
 ## Skills
-- 👨‍💻 JavaScript, PHP, Java, jQuery 
+- 👨‍💻 JavaScript, PHP, Java, jQuery, React, React Native
 - ⚙️ NodeJs, Laravel, Shopify liquid
 - 👁️ HTML, SASS, CSS, Stylus
 - 💽 MySQL, SQL, Mongo
