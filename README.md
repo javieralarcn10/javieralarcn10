@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Javier, a 22 years old web developer from Spain.
+I'm Javier, a 23 years old web developer from Spain.
 
 ## Skills
 - 👨‍💻 JavaScript, PHP, Java, jQuery, React, React Native
